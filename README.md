@@ -1,5 +1,10 @@
 ![Header](https://github.com/Glebegor/Glebegor/blob/master/assets/header.png)
- 
+<p style="text-align: center;">Golang enjoyer</p>
+<p style="text-align: center;">15 years cyberman</p>
+<p style="text-align: center;">volleyball player</p>
+<p style="text-align: center;">Student of 17-th Elementary school in Plzen</p>
+
+
 ## Languages and Tools
 ##### Back-end
 ![Golang](https://img.shields.io/badge/Golang-090909?style=for-the-badge&logo=go)
@@ -57,8 +62,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Glebegor)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ars.gleb/)
 
-<p style="text-align: center;">
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
-</p>
+
