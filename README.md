@@ -61,4 +61,4 @@ Follow me
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ars.gleb/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glebegor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glebegor&hide=html,css,shell)](https://github.com/anuraghazra/github-readme-stats)
