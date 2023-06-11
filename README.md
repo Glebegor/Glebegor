@@ -1,6 +1,6 @@
 ![Header](https://github.com/Glebegor/Glebegor/blob/master/assets/header.png)
  
-### Languages and Tools
+## Languages and Tools
 #### Back-end
 ![Golang](https://img.shields.io/badge/Golang-090909?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
@@ -53,7 +53,7 @@
 ![Cisco](https://img.shields.io/badge/Cisco-090909?style=for-the-badge&logo=Cisco) -->
 
 
-Follow me
+## Follow me
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/gleb-arseniuk-71a154234/)
 [![Twitter](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/Glebegor2)
 [![Youtube](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UCyxRWdBHgoO8vWiKSkugkNA)
@@ -61,4 +61,4 @@ Follow me
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ars.gleb/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glebegor&langs_count=3&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
