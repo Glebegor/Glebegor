@@ -2,9 +2,9 @@
 Some Facts:
 - Golang enjoyer
 - 15 years cyberman
-- volleyball player
+- Volleyball player
 - Student of 17-th Elementary school in Plzen
-
+- Jinx mainer(league of legends)
 
 ## Languages and Tools
 ##### Back-end
@@ -50,12 +50,6 @@ Some Facts:
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-090909?style=for-the-badge&logo=Kubernetes)
 
-<!-- ### Courses that I passed
-#### Courses
-![Codecademy](https://img.shields.io/badge/Codecademy-090909?style=for-the-badge&logo=Codecademy)
-![Coursera](https://img.shields.io/badge/Coursera-090909?style=for-the-badge&logo=Coursera)
-#### Certificates
-![Cisco](https://img.shields.io/badge/Cisco-090909?style=for-the-badge&logo=Cisco) -->
 ## Follow me
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=333399)](https://www.linkedin.com/in/gleb-arseniuk-71a154234/)
 [![Twitter](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/Glebegor2)
