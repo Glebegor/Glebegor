@@ -1,8 +1,9 @@
 ![Header](https://github.com/Glebegor/Glebegor/blob/master/assets/header.png)
-<p style="text-align: center;">Golang enjoyer</p>
-<p style="text-align: center;">15 years cyberman</p>
-<p style="text-align: center;">volleyball player</p>
-<p style="text-align: center;">Student of 17-th Elementary school in Plzen</p>
+Some Facts:
+- Golang enjoyer
+- 15 years cyberman
+- volleyball player
+- Student of 17-th Elementary school in Plzen
 
 
 ## Languages and Tools
