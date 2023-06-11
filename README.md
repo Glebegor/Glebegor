@@ -4,7 +4,7 @@
 #### Back-end
 ![Golang](https://img.shields.io/badge/Golang-090909?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
-![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django)
+![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=03830F)
 ![Flask](https://img.shields.io/badge/Flask-090909?style=for-the-badge&logo=flask)
 ![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=node.js)
 
@@ -20,18 +20,18 @@
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React)
 
 #### Servers
-![Apache](https://img.shields.io/badge/Apache-090909?style=for-the-badge&logo=Apache)
-![Nginx](https://img.shields.io/badge/Nginx-090909?style=for-the-badge&logo=Nginx)
+![Apache](https://img.shields.io/badge/Apache-090909?style=for-the-badge&logo=Apache&logoColor=692929)
+![Nginx](https://img.shields.io/badge/Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=2EEA22)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-090909?style=for-the-badge&logo=Gunicorn)
 
 #### Interesting in, too
 ![Rust](https://img.shields.io/badge/Rust-090909?style=for-the-badge&logo=rust)
-![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b)
-![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=c-sharp)
-![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=Dart)
-![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk)
-![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas)
-![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=Keras)
+![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=292969)
+![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=292999)
+![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=Dart&logoColor=595999)
+![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=764650)
+![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=090979)
+![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=Keras&logoColor=990909)
 
 #### Version Control
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
@@ -40,7 +40,7 @@
 #### Other
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger)
-![CMake](https://img.shields.io/badge/CMake-090909?style=for-the-badge&logo=CMake)
+![CMake](https://img.shields.io/badge/CMake-090909?style=for-the-badge&logo=CMake&logoColor=318388)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-090909?style=for-the-badge&logo=Kubernetes)
 
@@ -48,15 +48,13 @@
 #### Courses
 ![Codecademy](https://img.shields.io/badge/Codecademy-090909?style=for-the-badge&logo=Codecademy)
 ![Coursera](https://img.shields.io/badge/Coursera-090909?style=for-the-badge&logo=Coursera)
-
 #### Certificates
 ![Cisco](https://img.shields.io/badge/Cisco-090909?style=for-the-badge&logo=Cisco) -->
-
-
-## Follow me
-[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/gleb-arseniuk-71a154234/)
+<hr>
+### Follow me
+[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=333399)](https://www.linkedin.com/in/gleb-arseniuk-71a154234/)
 [![Twitter](https://img.shields.io/badge/Twitter-090909?style=for-the-badge&logo=Twitter)](https://twitter.com/Glebegor2)
-[![Youtube](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=Youtube)](https://www.youtube.com/channel/UCyxRWdBHgoO8vWiKSkugkNA)
+[![Youtube](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=911333)](https://www.youtube.com/channel/UCyxRWdBHgoO8vWiKSkugkNA)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Glebegor)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ars.gleb/)
 
