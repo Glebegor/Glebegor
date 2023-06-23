@@ -5,7 +5,8 @@ Some Facts:
 - Volleyball player
 - Student of 17-th Elementary school in Plzen
 - Jinx mainer(league of legends)
-
+#### Certificates
+[![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/certificate/XC6F92XQDAQJ)
 ## Languages and Tools
 ##### Back-end
 ![Golang](https://img.shields.io/badge/Golang-090909?style=for-the-badge&logo=go)
