@@ -2,9 +2,9 @@
 Some Facts:
 - Golang enjoyer
 - 15 years cyberman
-- Volleyball player
-- Student of 17-th Elementary school in Plzen
-- Jinx mainer(league of legends)
+- Volleyball enjoyer
+- Student of Middle Industrial Electrical Engineering School in Pilsen 
+- WoW hunter of 80 level
 #### Certificates
 [![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/certificate/JMBTWV3LBHRD)
 ## Languages and Tools
