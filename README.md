@@ -34,8 +34,6 @@ Some Facts:
 ##### Interesting in, too
 ![Rust](https://img.shields.io/badge/Rust-090909?style=for-the-badge&logo=rust)
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=292969)
-![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=c-sharp&logoColor=292999)
-![Dart](https://img.shields.io/badge/Dart-090909?style=for-the-badge&logo=Dart&logoColor=595999)
 ![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=764650)
 ![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=090979)
 ![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=Keras&logoColor=990909)
@@ -44,6 +42,7 @@ Some Facts:
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=Github)
 ![Gitlab](https://img.shields.io/badge/Gitlab-090909?style=for-the-badge&logo=Gitlab)
+
 ##### Other
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger)
