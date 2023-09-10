@@ -59,6 +59,6 @@ Some Facts:
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ars.gleb/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Glebegor)](https://github.com/Glebegor/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Glebegor-&theme=dark)](https://github.com/Glebegor-/leetcode-stats)
 
 
