@@ -57,7 +57,7 @@ Some Facts:
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Glebegor)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ars.gleb/)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Glebegor's github stats](https://github-readme-stats.vercel.app/api?username=Glebegor&show_icons=true&theme=tokyonight)
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Glebegor-&theme=dark)](https://leetcode.com/Glebegor-/)
 
 
