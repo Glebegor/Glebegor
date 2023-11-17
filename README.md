@@ -46,7 +46,6 @@ Some Facts:
 ##### Other
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger)
-![CMake](https://img.shields.io/badge/CMake-090909?style=for-the-badge&logo=CMake&logoColor=318388)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-090909?style=for-the-badge&logo=Kubernetes)
 
