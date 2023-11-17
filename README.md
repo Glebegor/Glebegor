@@ -50,6 +50,8 @@ Some Facts:
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-090909?style=for-the-badge&logo=Kubernetes)
+![Azure](https://img.shields.io/badge/Azure-090909?style=for-the-badge&logo=Microsoft-Azure)
+![AWS](https://img.shields.io/badge/AWS-090909?style=for-the-badge&logo=Amazon)
 
 ## Follow me
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=333399)](https://www.linkedin.com/in/gleb-arseniuk-71a154234/)
