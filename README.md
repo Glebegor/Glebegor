@@ -34,7 +34,7 @@ Some Facts:
 ##### Interesting in, too
 ![Rust](https://img.shields.io/badge/Rust-090909?style=for-the-badge&logo=rust)
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=292969)
-![C#](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=C-sharp&logoColor=764650)
+![C#](https://img.shields.io/badge/C#-090909?style=for-the-badge&logo=C-sharp&logoColor=764650)
 ![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=090979)
 ![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=Keras&logoColor=990909)
 
