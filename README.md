@@ -1,10 +1,11 @@
 ![Header](https://github.com/Glebegor/Glebegor/blob/master/assets/header.png)
 Some Facts:
-- Golang enjoyer
+- Golang/C# forever
 - 15 years cyberman
 - Volleyball enjoyer
 - Student of Middle Industrial Electrical Engineering School in Pilsen 
 - WoW hunter of 80 level
+
 #### Certificates
 [![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/certificate/JMBTWV3LBHRD)
 ## Languages and Tools
@@ -42,6 +43,7 @@ Some Facts:
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=Github)
 ![Gitlab](https://img.shields.io/badge/Gitlab-090909?style=for-the-badge&logo=Gitlab)
+![Heroku](https://img.shields.io/badge/Heroku-090909?style=for-the-badge&logo=Heroku)
 
 ##### Other
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman)
