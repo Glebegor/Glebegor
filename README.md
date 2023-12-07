@@ -8,7 +8,7 @@ Some Facts:
 
 #### Certificates
 ##### Google course
--Foundations of Cybersecurity. [![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/records/XC6F92XQDAQJ)
+- Foundations of Cybersecurity. [![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/records/XC6F92XQDAQJ)
 - Play It Safe: Manage Security Risks. [![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/records/6JAS8LDV3ZXR)
 - Connect and Protect: Networks and Network Security. [![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/records/JMBTWV3LBHRD)
 - Tools of the Trade: Linux and SQL. [![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/records/6PDHA6LPE599)
