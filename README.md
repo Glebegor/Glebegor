@@ -7,7 +7,15 @@ Some Facts:
 - WoW hunter of 80 level
 
 #### Certificates
-[![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/certificate/JMBTWV3LBHRD)
+##### Google course
+-Foundations of Cybersecurity. [![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/records/XC6F92XQDAQJ)
+- Play It Safe: Manage Security Risks. [![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/records/6JAS8LDV3ZXR)
+- Connect and Protect: Networks and Network Security. [![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/records/JMBTWV3LBHRD)
+- Tools of the Trade: Linux and SQL. [![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/records/6PDHA6LPE599)
+- Assets, Threats, and Vulnerabilities. <-
+- Sound the Alarm: Detection and Response.
+- Automate Cybersecurity Tasks with Python.
+- Put It to Work: Prepare for Cybersecurity Jobs.
 ## Languages and Tools
 ##### Back-end
 ![Golang](https://img.shields.io/badge/Golang-090909?style=for-the-badge&logo=go)
