@@ -1,7 +1,7 @@
 ![Header](https://github.com/Glebegor/Glebegor/blob/master/assets/header.png)
 Some Facts:
 - Golang/C# forever
-- 15 years cyberman
+- 16 years cyberman
 - Volleyball enjoyer
 - Student of Middle Industrial Electrical Engineering School in Pilsen 
 - WoW hunter of 80 level
