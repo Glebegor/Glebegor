@@ -7,6 +7,8 @@ Some Facts:
 - WoW hunter of 80 level
 
 #### Certificates
+##### Quantum course
+- Quantum mechanic, University of Colorado Boulder [![Colorado Boulder](https://img.shields.io/badge/Quantum_mechanic-090909?style=for-the-badge&logo=)](https://coursera.org/share/bf1ea055211267ea023d498ae0f05587)
 ##### Google course
 - Foundations of Cybersecurity [![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/records/XC6F92XQDAQJ)
 - Play It Safe: Manage Security Risks [![Google](https://img.shields.io/badge/Cybersecurity-090909?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/records/6JAS8LDV3ZXR)
