@@ -20,6 +20,7 @@ Some Facts:
 - Put It to Work: Prepare for Cybersecurity Jobs
 ## Languages and Tools
 ##### Back-end
+![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=сsharp&logoColor=764650)
 ![Golang](https://img.shields.io/badge/Golang-090909?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=03830F)
@@ -32,6 +33,7 @@ Some Facts:
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![Mongodb](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb)
 ![Sqlite](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=sqlite)
+![Redis](https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis)
 
 ##### Front-end
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5)
@@ -46,11 +48,9 @@ Some Facts:
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-090909?style=for-the-badge&logo=Gunicorn)
 
 ##### Interesting in, too
-![Redis](https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-090909?style=for-the-badge&logo=rabbitmq)
 ![Rust](https://img.shields.io/badge/Rust-090909?style=for-the-badge&logo=rust)
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=292969)
-![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=C-sharp&logoColor=764650)
 ![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=090979)
 ![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=Keras&logoColor=990909)
 
