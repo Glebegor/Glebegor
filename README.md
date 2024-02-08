@@ -47,13 +47,6 @@ Some Facts:
 ![Nginx](https://img.shields.io/badge/Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=2EEA22)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-090909?style=for-the-badge&logo=Gunicorn)
 
-##### Interesting in, too
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-090909?style=for-the-badge&logo=rabbitmq)
-![Rust](https://img.shields.io/badge/Rust-090909?style=for-the-badge&logo=rust)
-![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=292969)
-![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=090979)
-![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=Keras&logoColor=990909)
-
 ##### Version Control
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=Github)
@@ -67,6 +60,13 @@ Some Facts:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-090909?style=for-the-badge&logo=Kubernetes)
 ![Azure](https://img.shields.io/badge/Azure-090909?style=for-the-badge&logo=Microsoft-Azure)
 ![AWS](https://img.shields.io/badge/AWS-090909?style=for-the-badge&logo=Amazon)
+
+##### Interesting in, too
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-090909?style=for-the-badge&logo=rabbitmq)
+![Rust](https://img.shields.io/badge/Rust-090909?style=for-the-badge&logo=rust)
+![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=292969)
+![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=090979)
+![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=Keras&logoColor=990909)
 
 ## Follow me
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=333399)](https://www.linkedin.com/in/gleb-arseniuk-71a154234/)
