@@ -20,7 +20,7 @@ Some Facts:
 - Put It to Work: Prepare for Cybersecurity Jobs
 ## Languages and Tools
 ##### Back-end
-![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=сsharp&logoColor=764650)
+![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=csharp&logoColor=764650)
 ![Golang](https://img.shields.io/badge/Golang-090909?style=for-the-badge&logo=go)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=03830F)
