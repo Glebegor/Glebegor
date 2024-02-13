@@ -1,10 +1,9 @@
 ![Header](https://github.com/Glebegor/Glebegor/blob/master/assets/header.png)
 Some Facts:
 - Golang/C# forever
-- 16 years cyberman
-- Volleyball enjoyer
+- 16 years
+- Volleyball player
 - Student of Middle Industrial Electrical Engineering School in Pilsen 
-- WoW hunter of 80 level
 
 #### Certificates
 ##### Quantum course
@@ -21,7 +20,9 @@ Some Facts:
 ## Languages and Tools
 ##### Back-end
 ![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=csharp&logoColor=764650)
+![ASP](https://img.shields.io/badge/ASP.NET-090909?style=for-the-badge&logo=dotnet&logoColor=764650)
 ![Golang](https://img.shields.io/badge/Golang-090909?style=for-the-badge&logo=go)
+![Golang](https://img.shields.io/badge/Gin-090909?style=for-the-badge&logo=gin)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=03830F)
 ![Flask](https://img.shields.io/badge/Flask-090909?style=for-the-badge&logo=flask)
@@ -46,11 +47,10 @@ Some Facts:
 ![Apache](https://img.shields.io/badge/Apache-090909?style=for-the-badge&logo=Apache&logoColor=692929)
 ![Nginx](https://img.shields.io/badge/Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=2EEA22)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-090909?style=for-the-badge&logo=Gunicorn)
+![Azure](https://img.shields.io/badge/Azure-090909?style=for-the-badge&logo=Microsoft-Azure)
 
 ##### Version Control
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
-![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=Github)
-![Gitlab](https://img.shields.io/badge/Gitlab-090909?style=for-the-badge&logo=Gitlab)
 ![Heroku](https://img.shields.io/badge/Heroku-090909?style=for-the-badge&logo=Heroku)
 
 ##### Other
@@ -58,15 +58,17 @@ Some Facts:
 ![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=Swagger)
 ![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-090909?style=for-the-badge&logo=Kubernetes)
-![Azure](https://img.shields.io/badge/Azure-090909?style=for-the-badge&logo=Microsoft-Azure)
-![AWS](https://img.shields.io/badge/AWS-090909?style=for-the-badge&logo=Amazon)
+![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=Github)
+![Gitlab](https://img.shields.io/badge/Gitlab-090909?style=for-the-badge&logo=Gitlab)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-090909?style=for-the-badge&logo=rabbitmq)
 
 ##### Interesting in, too
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-090909?style=for-the-badge&logo=rabbitmq)
-![Rust](https://img.shields.io/badge/Rust-090909?style=for-the-badge&logo=rust)
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=292969)
+![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C&logoColor=292969)
 ![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=090979)
 ![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=Keras&logoColor=990909)
+![GraphQL](https://img.shields.io/badge/GraphQL-090909?style=for-the-badge&logo=graphql)
+![AWS](https://img.shields.io/badge/AWS-090909?style=for-the-badge&logo=Amazon)
 
 ## Follow me
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=333399)](https://www.linkedin.com/in/gleb-arseniuk-71a154234/)
