@@ -69,6 +69,7 @@ Some Facts:
 ![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=Keras&logoColor=990909)
 ![GraphQL](https://img.shields.io/badge/GraphQL-090909?style=for-the-badge&logo=graphql)
 ![AWS](https://img.shields.io/badge/AWS-090909?style=for-the-badge&logo=Amazon)
+![Q#](https://img.shields.io/badge/Q%23-090909?style=for-the-badge&logo=qsharp&logoColor=764650)
 
 ## Follow me
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=333399)](https://www.linkedin.com/in/gleb-arseniuk-71a154234/)
