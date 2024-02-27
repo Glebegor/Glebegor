@@ -35,6 +35,8 @@ Some Facts:
 ![Mongodb](https://img.shields.io/badge/MongoDB-090909?style=for-the-badge&logo=mongodb)
 ![Sqlite](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=sqlite)
 ![Redis](https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=redis)
+![GraphQL](https://img.shields.io/badge/GraphQL-090909?style=for-the-badge&logo=graphql)
+
 
 ##### Front-end
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5)
@@ -66,8 +68,6 @@ Some Facts:
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=292969)
 ![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C&logoColor=292969)
 ![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=090979)
-![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=Keras&logoColor=990909)
-![GraphQL](https://img.shields.io/badge/GraphQL-090909?style=for-the-badge&logo=graphql)
 ![AWS](https://img.shields.io/badge/AWS-090909?style=for-the-badge&logo=Amazon)
 ![Q#](https://img.shields.io/badge/Q%23-090909?style=for-the-badge&logo=qsharp&logoColor=764650)
 
