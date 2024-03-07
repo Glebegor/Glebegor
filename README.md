@@ -41,8 +41,6 @@ Some Facts:
 ##### Front-end
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=css3)
-![Javascript](https://img.shields.io/badge/Javascript-090909?style=for-the-badge&logo=javascript)
-![Typescript](https://img.shields.io/badge/Typescript-090909?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-090909?style=for-the-badge&logo=React)
 
 ##### Servers
