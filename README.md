@@ -3,8 +3,14 @@ Some Facts:
 - Golang/C# forever
 - 16 years
 - Volleyball player
-- Student of Middle Industrial Electrical Engineering School in Pilsen 
+- Student of Middle Industrial Electrical Engineering School in Pilsen
 
+My directions:
+- Quantum Programming
+- AI
+- Cybersecurity
+- Back-end (In the past)
+  
 #### Certificates
 ##### Quantum course
 - Quantum mechanic, University of Colorado Boulder [![Colorado Boulder](https://img.shields.io/badge/Quantum_mechanic-090909?style=for-the-badge&logo=)](https://coursera.org/share/bf1ea055211267ea023d498ae0f05587)
@@ -22,7 +28,7 @@ Some Facts:
 ![C#](https://img.shields.io/badge/C%23-090909?style=for-the-badge&logo=csharp&logoColor=764650)
 ![ASP](https://img.shields.io/badge/ASP.NET-090909?style=for-the-badge&logo=dotnet&logoColor=764650)
 ![Golang](https://img.shields.io/badge/Golang-090909?style=for-the-badge&logo=go)
-![Golang](https://img.shields.io/badge/Gin-090909?style=for-the-badge&logo=gin)
+![Gin](https://img.shields.io/badge/Gin-090909?style=for-the-badge&logo=gin)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=03830F)
 ![Flask](https://img.shields.io/badge/Flask-090909?style=for-the-badge&logo=flask)
@@ -48,6 +54,12 @@ Some Facts:
 ![Nginx](https://img.shields.io/badge/Nginx-090909?style=for-the-badge&logo=Nginx&logoColor=2EEA22)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-090909?style=for-the-badge&logo=Gunicorn)
 ![Azure](https://img.shields.io/badge/Azure-090909?style=for-the-badge&logo=Microsoft-Azure)
+![AWS](https://img.shields.io/badge/AWS-090909?style=for-the-badge&logo=Amazon)
+
+##### AI
+![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=090979)
+![Keras](https://img.shields.io/badge/Keras-090909?style=for-the-badge&logo=Keras&logoColor=090979)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-090909?style=for-the-badge&logo=Tensorflow&logoColor=090979)
 
 ##### Version Control
 ![GIT](https://img.shields.io/badge/GIT-090909?style=for-the-badge&logo=git)
@@ -64,9 +76,6 @@ Some Facts:
 
 ##### Interesting in, too
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=292969)
-![C](https://img.shields.io/badge/C-090909?style=for-the-badge&logo=C&logoColor=292969)
-![Pandas](https://img.shields.io/badge/Pandas-090909?style=for-the-badge&logo=Pandas&logoColor=090979)
-![AWS](https://img.shields.io/badge/AWS-090909?style=for-the-badge&logo=Amazon)
 ![Q#](https://img.shields.io/badge/Q%23-090909?style=for-the-badge&logo=qsharp&logoColor=764650)
 
 ## Follow me
