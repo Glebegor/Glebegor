@@ -33,7 +33,6 @@ My directions:
 ![Django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=django&logoColor=03830F)
 ![Flask](https://img.shields.io/badge/Flask-090909?style=for-the-badge&logo=flask)
 ![Node.js](https://img.shields.io/badge/Node.js-090909?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-090909?style=for-the-badge&logo=express)
 
 ##### Databases
 ![Mysql](https://img.shields.io/badge/Mysql-090909?style=for-the-badge&logo=mysql)
