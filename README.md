@@ -76,6 +76,7 @@ My directions:
 ##### Interesting in, too
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=292969)
 ![Q#](https://img.shields.io/badge/Q%23-090909?style=for-the-badge&logo=qsharp&logoColor=764650)
+![Rust](https://img.shields.io/badge/Rust-090909?style=for-the-badge&logo=rust&logoColor=764650)
 
 ## Follow me
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=333399)](https://www.linkedin.com/in/gleb-arseniuk-71a154234/)
