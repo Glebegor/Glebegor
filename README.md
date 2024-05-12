@@ -11,6 +11,7 @@
     "Sciences": {
       "Quantum computing",
       "Cybersecurity",
+      "Back-end"
       "AI"
     }
   ],
@@ -20,7 +21,6 @@
     "Golang",
     "JavaScript",
     "C++",
-    "Rust"
   ]
 }
 ```
