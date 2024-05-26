@@ -33,4 +33,4 @@
 
 ![Glebegor's github stats](https://github-readme-stats.vercel.app/api?username=Glebegor&show_icons=true&theme=tokyonight)
 
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Glebegor-)](https://github.com/KnlnKS/leetcode-stats)
