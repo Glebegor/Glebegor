@@ -1,23 +1,4 @@
-```json
-{
-  "User": {
-    "Name": "Hlib Arseniuk",
-    "Age": "16",
-    "Phrase": "Hello, it's my page!💀"
-  },
-  "Hobbies": [
-    "Programming",
-    "Volleyball",
-    "Sciences": {
-      "Quantum computing",
-      "Cybersecurity",
-      "Back-end",
-      "AI"
-    }
-  ],
-}
-```
-
+<div align="center">
 <p align="center"> 
     <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -51,7 +32,11 @@
 [![Youtube](https://img.shields.io/badge/Youtube-090909?style=for-the-badge&logo=Youtube&logoColor=911333)](https://www.youtube.com/channel/UCyxRWdBHgoO8vWiKSkugkNA)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/Glebegor)
 [![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=Instagram)](https://www.instagram.com/ars.gleb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hlib-arseniuk-71a154234/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-090909?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Glebegor-/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-090909?style=for-the-badge&logo=Codeforces)](https://codeforces.com/profile/Glebegor-)
 
 ![Glebegor's github stats](https://github-readme-stats.vercel.app/api?username=Glebegor&show_icons=true&theme=tokyonight)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Glebegor-?theme=dark&font=Ubuntu&ext=contest)
+</div>
