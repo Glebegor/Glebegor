@@ -5,11 +5,11 @@
     <img alt="Go" src="https://img.shields.io/badge/Golang-blue?style=for-the-badge&logo=go&logoColor=white" />
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+    <img alt="Q#" src="https://img.shields.io/badge/Q%23-334205?style=for-the-badge&logo=c%23&logoColor=white" />
+    <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-purple?style=for-the-badge&logo=qiskit&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-purple?style=for-the-badge&logo=qiskit&logoColor=white" />
-    <img alt="Q#" src="https://img.shields.io/badge/Q%23-334205?style=for-the-badge&logo=c%23&logoColor=white" />
     <img alt="Express" src="https://img.shields.io/badge/Express.js-%23404D59.svg?&style=for-the-badge&logo=express&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
