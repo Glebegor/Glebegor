@@ -39,4 +39,6 @@
 ![Glebegor's github stats](https://github-readme-stats.vercel.app/api?username=Glebegor&show_icons=true&theme=tokyonight)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Glebegor-?theme=dark&font=Ubuntu&ext=contest)
+
+[![wakatime](https://wakatime.com/badge/user/440520f4-9a7f-4c04-8430-9fc454407c42.svg)](https://wakatime.com/@440520f4-9a7f-4c04-8430-9fc454407c42)
 </div>
