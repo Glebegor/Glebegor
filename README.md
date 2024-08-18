@@ -35,10 +35,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hlib-arseniuk-71a154234/)
 [![Leetcode](https://img.shields.io/badge/Leetcode-090909?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Glebegor-/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-090909?style=for-the-badge&logo=Codeforces)](https://codeforces.com/profile/Glebegor-)
-
-![Glebegor's github stats](https://github-readme-stats.vercel.app/api?username=Glebegor&show_icons=true&theme=tokyonight)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Glebegor-?theme=dark&font=Ubuntu&ext=contest)
-
-[![wakatime](https://wakatime.com/badge/user/440520f4-9a7f-4c04-8430-9fc454407c42.svg)](https://wakatime.com/@440520f4-9a7f-4c04-8430-9fc454407c42)
 </div>
