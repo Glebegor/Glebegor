@@ -26,7 +26,8 @@
     <img alt="Gunicorn" src="https://img.shields.io/badge/Gunicorn-208932?style=for-the-badge&logo=Gunicorn&logoColor=white" />
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-205932?style=for-the-badge&logo=pandas&logoColor=white" />
     <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-e06060?style=for-the-badge&logo=rabbitMQ&logoColor=white" />
-    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-e06060?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
+    <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-239120?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
+    <img alt="Kibana" src="https://img.shields.io/badge/Kibana-purple?style=for-the-badge&logo=Kibana&logoColor=white" />
 </p>
 
 ### Follow me
