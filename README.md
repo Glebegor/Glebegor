@@ -28,6 +28,8 @@
     <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-e06060?style=for-the-badge&logo=rabbitMQ&logoColor=white" />
     <img alt="Elasticsearch" src="https://img.shields.io/badge/Elasticsearch-239120?style=for-the-badge&logo=Elasticsearch&logoColor=white" />
     <img alt="Kibana" src="https://img.shields.io/badge/Kibana-purple?style=for-the-badge&logo=Kibana&logoColor=white" />
+    <img alt="Vault" src="https://img.shields.io/badge/Vault-yellow?style=for-the-badge&logo=Vault&logoColor=white" />
+
 </p>
 
 ### Follow me
